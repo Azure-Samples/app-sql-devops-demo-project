@@ -1,6 +1,8 @@
 # Azure DevOps with Azure SQL and Azure Static Web App
 This repository contains an example static web app and Azure SQL database along with a complete Azure DevOps pipeline definition to deploy the full stack.
 
+![architecture summary with development going into Azure DevOps to deploy a SQL database and web app](./demo-scenario.png)
+
 ## Repository Overview
 - 📁 **.devcontainer**: Codespaces/VS Code remote environment definition
 - 📁 **.vscode**: VS Code workspace settings
